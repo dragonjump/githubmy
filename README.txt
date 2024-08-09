@@ -1,6 +1,6 @@
 github by github
 github.my | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (github.my/license)
+Free for personal and commercial use under the CCA 3.0 - (github.my/-)
 
 
 So I've had the wireframe for this particular design kicking around for some time, but with all
